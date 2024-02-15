@@ -1,16 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Ismail"
-  given-names: "Refat"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Kakkar"
-  given-names: "Ashish"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Dymarsky"
-  given-names: "Anatoly
 title: "QUBO-for-Self-dual-Stabilizer-codes"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi:
 date-released: 2024-02-15
 url: "https://github.com/RefatIsmail96/QUBO-for-Self-dual-Stabilizer-codes"
