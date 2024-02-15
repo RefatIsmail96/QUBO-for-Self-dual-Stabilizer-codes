@@ -4,7 +4,7 @@ This program constructs a QUBO cost function whose minimization corresponds to f
 ## Installation
 To install the correct package versions use "environment.txt". Download the file and run
 ```
-pip install -r "filepath\requirements.txt"
+pip install -r "filepath/requirements.txt"
 ```
 to install.
 ## Working with code
