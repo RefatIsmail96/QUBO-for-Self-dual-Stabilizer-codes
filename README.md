@@ -11,8 +11,8 @@ to install.
 The code constructs the QUBO and solves it using Neal's Simulated Annealing Sampler. It can be easily adjusted to run using other classical, quantum, and hybrid algorithms depending on the user's purpose.
 
 The uploaded program is a minimalist implementation of the code to show the core ideas using code instances from [Grassl database](http://www.codetables.de/). The program constructs the QUBO matrix using the generator matrix "G" of a circulant self-dual code:
-$$G^T = \left( I_{n}|B \right)$$ with B a circulant matrix and I_n the nxn identity matrix.
-We introduce auxiliary variables to write the QUBO -see details in the paper-. Our cost function can then be written as:
+$$G^T = \left( I_{n}|C \right)$$ with C a circulant matrix and $I_n$ the nxn identity matrix.
+We introduce auxiliary variables to write the QUBO -see details in the paper (link will be posted soon)-. Our cost function can then be written as:
 $$\textbf{cost function} = \min_z z^T Q z$$
 Where z is a list of binary variables consisting of: our original variables $x_i$ and the auxiliary variables $y_{i,j}$, arranged as $z= [x_1,x_2,...,x_n, \ y_{1,1},y_{2,1},...,y_{n,1}, \ y_{1,2},...,y_{n,r}]$. The Q matrix will be made of multiple blocks as shown:
 ```math
