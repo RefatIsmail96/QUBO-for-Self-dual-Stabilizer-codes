@@ -1,14 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "Ismail"
+  given-names: "Refat"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
+- family-names: "Kakkar"
+  given-names: "Ashish"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Dymarsky"
+  given-names: "Anatoly"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "A quantum annealing approach to minimum distance problem"
-version: 2.0.4
+version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-04-26
 url: "https://arxiv.org/abs/2404.17703"
