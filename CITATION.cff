@@ -10,9 +10,27 @@ authors:
 - family-names: "Dymarsky"
   given-names: "Anatoly"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "A quantum annealing approach to minimum distance problem"
+title: "Self-dual Stabilizer code distance using QUBO approach"
 version:
 doi: 
 date-released: 2024-04-26
-url: "https://arxiv.org/abs/2404.17703"
-eprint: 2404.17703
+url: "https://github.com/RefatIsmail96/QUBO-for-Self-dual-Stabilizer-codes"
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Ismail"
+    given-names: "Refat"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Kakkar"
+    given-names: "Ashish"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Dymarsky"
+    given-names: "Anatoly"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  title: "A quantum annealing approach to minimum distance problem"
+  version:
+  doi: 
+  date-released: 2024-04-26
+  url: "https://arxiv.org/abs/2404.17703"
+  eprint: 2404.17703
