@@ -8,8 +8,4 @@ authors:
 -family-names: "Dymarsky"
   given-names: "Anatoly"
 title: "A quantum annealing approach to minimum distance problem"
-version: 1.0.0
-eprint: 2404.17703
-date-released: 2024-04-26
-url: "https://arxiv.org/abs/2404.17703"
-archivePrefix: arXiv
+
