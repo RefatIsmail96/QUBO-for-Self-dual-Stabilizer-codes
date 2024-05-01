@@ -1,14 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "QUBO-for-Self-dual-Stabilizer-codes"
+- family-names: "Ismail"
+  given-names: "Refat"
+- family-names: "Kakkar"
+  given-names: "Ashish"
+-family-names: "Dymarsky"
+  given-names: "Anatoly"
+title: "A quantum annealing approach to minimum distance problem"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2024-05-01
-url: "https://github.com/RefatIsmail96/QUBO-for-Self-dual-Stabilizer-codes"
+eprint: 2404.17703
+date-released: 2024-04-26
+url: "https://arxiv.org/abs/2404.17703"
+archivePrefix: arXiv
